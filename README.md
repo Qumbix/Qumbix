@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Maksim, python developer from Kharkiv. I'm not currently working. I’m currently learning Django.
 <!--
 **Qumbix/Qumbix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
